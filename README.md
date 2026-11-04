@@ -1,6 +1,6 @@
 # Praktik Lanjutan: Integrasi Chat Grup Flutter + Supabase
 
-**Untuk:** Mahasiswa SI Angkatan 2025, Kelas B, Prodi SI Polnustar  
+**Untuk:** Mahasiswa SI Angkatan 2025, Kelas A, Prodi SI Polnustar  
 **Target:** Membuat registrasi, login, satu room chat grup realtime, dan notifikasi pesan.
 
 Memodifikasi Project yang telah kita buat pekan lalu

@@ -510,7 +510,7 @@ Jika terjadi error, baca pesan error lengkap, periksa nama tabel/kolom, dan past
 ![Teks Alternatif Gambar](images/messages_page.dart.png)
 
 ### lib/pages/notifications_page.dart
-![Teks Alternatif Gambar](notifications_page.dart.png)
+![Teks Alternatif Gambar](images/notifications_page.dart.png)
 
 ### lib/pages/home_page.dart
 ![Teks Alternatif Gambar](images/home_page.dart.png)

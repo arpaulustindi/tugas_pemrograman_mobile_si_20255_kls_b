@@ -496,3 +496,21 @@ Jika terjadi error, baca pesan error lengkap, periksa nama tabel/kolom, dan past
 - `lib/pages/messages_page.dart` dibuat bertahap.
 - `lib/pages/notifications_page.dart` dibuat bertahap.
 - `lib/pages/home_page.dart` tetap menggunakan halaman yang sudah ada.
+
+## DAFTAR KODE LENGKAP 
+
+### lib/main.dart
+(images/main.dart.jpg)
+
+
+### lib/pages/auth_page.dart
+
+
+### lib/pages/messages_page.dart
+
+
+### lib/pages/notifications_page.dart
+
+
+### lib/pages/home_page.dart
+

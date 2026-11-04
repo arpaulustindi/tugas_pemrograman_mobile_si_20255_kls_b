@@ -500,17 +500,17 @@ Jika terjadi error, baca pesan error lengkap, periksa nama tabel/kolom, dan past
 ## DAFTAR KODE LENGKAP 
 
 ### lib/main.dart
-(images/main.dart.jpg)
+![Teks Alternatif Gambar](images/main.dart.png)
 
 
 ### lib/pages/auth_page.dart
-
+![Teks Alternatif Gambar](images/auth_page.dart.png)
 
 ### lib/pages/messages_page.dart
-
+![Teks Alternatif Gambar](images/messages_page.dart.png)
 
 ### lib/pages/notifications_page.dart
-
+![Teks Alternatif Gambar](notifications_page.dart.png)
 
 ### lib/pages/home_page.dart
-
+![Teks Alternatif Gambar](images/home_page.dart.png)
